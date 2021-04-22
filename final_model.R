@@ -1,5 +1,7 @@
 #This script is designed to create a model to predict diabetes
 
+#any sources used and adpated in this code have been listed below
+
 # loading libraries -------------------------------------------------------
 
 library(PerformanceAnalytics)
